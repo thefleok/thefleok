@@ -1,4 +1,14 @@
-## Hi there 👋
+## A smidge of information on Leo Jergovic below:
+
+* Private Markets Investor
+* Musician and Creator
+* Writer
+
+## Credentials:
+* BA+MA from Columbia University in Data Science, Financial Economics, and Business Management
+* BlackRock Internship (Private Equity Partners) and Provident Healthcare Partners Internship (Investment Banking)
+* Honors Thesis executing Market Model on semiconductor stocks for CHIPS and Science Act (1 of 10 recipients of honors in Economics from Columbia University)
+
 
 <!--
 **thefleok/thefleok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
